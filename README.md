@@ -61,5 +61,4 @@ Before running the project, you need to have the following installed:
 - JavaScript
 - PHP
 - MySQL
-
-```
+  
